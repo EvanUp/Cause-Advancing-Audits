@@ -1,10 +1,5 @@
----
-
-# How Alt-Tech Users Evaluate Search Engines: Cause-Advancing Audits  
-
 This repository contains the data and code used in the study **"How alt-tech users evaluate search engines: Cause-advancing audits"**.  
 
----
 
 ## 📁 Folder Structure  
 
