@@ -1,0 +1,550 @@
+thread_id,doc_id,num,subnum,op,timestamp,fourchan_date,name,title,referencing_comment,comments,poster_country,nreplies,formatted,media_link
+162860389,139182848,162865391,0,0,1520278829,3/5/18(Mon)14:40,Anonymous,NA,"162865173
+","AWS, ElasticSearch, some kind of queue system, nosql document stores, postgresql, other miscellaneous shit. Dude if you live out here and have the skills there should be 0 problem finding a job. They are desperate for engineers.",US,NA,FALSE,NA
+177120114,153440681,177127994,0,0,1530456015,7/1/18(Sun)10:40,Anonymous,NA,"177127090
+","No my job is more data engineering. I don't really have to manipulate the data much, just make sure it gets from point A to point B. But we do apply some transformations and enhancements to the data, so we need to know what everything means.
+
+Elasticsearch/logstash/kibana. But the most relevant things are whatever they ask for around you.",US,NA,FALSE,NA
+186588488,162902518,186603067,0,0,1537647840,9/22/18(Sat)16:24,Anonymous,NA,NA,"GUYS THIS IS GOLD! (https://github.com/elastic/elasticsearch)
+
+master: 8194
+slave: 81
+sanity check: 21
+dumb: 48
+silly: 28
+insane: 5
+crazy: 107
+stupid: 59
+lame: 128
+lunatic: 4
+idiot: 12
+nigger: 8
+nigga: 12
+sexist: 952
+whitelist: 645
+blacklist: 213
+nazi: 20
+hitler: 4
+trump: 46
+disable: 1389
+normal: 3326",NA,NA,FALSE,NA
+186588488,162902862,186603414,0,0,1537648072,9/22/18(Sat)16:27,Anonymous,NA,NA,REEEEEE WHYD THEY MENTION TRUMP https://github.com/elastic/elasticsearch/blob/2fa09f062e5fe4165b457fb2b42ff4b65acdb8c7/plugins/mapper-annotated-text/src/test/java/org/elasticsearch/search/highlight/AnnotatedTextHighlighterTests.java#L136,CA,NA,FALSE,NA
+186588488,162903303,186603847,0,0,1537648368,9/22/18(Sat)16:32,Anonymous,NA,"186603723
+","NEW ISSUE: https://github.com/elastic/elasticsearch/issues/33969
+oh damn commenting it roight now",CA,NA,FALSE,NA
+186604776,162905084,186605664,0,0,1537649548,9/22/18(Sat)16:52,Anonymous,NA,NA,"ISSUES
+
+https://github.com/crystal-lang/crystal/issues/6765
+https://github.com/nim-lang/Nim/issues/9030
+https://github.com/torvalds/uemacs/issues/16
+https://github.com/crystal-lang/crystal/issues/6767
+https://github.com/crystal-lang/crystal/issues/6769
+https://github.com/crystal-lang/crystal/blob/0004179c9576c89d14e617423828af6f31e6d7a1/spec/std/xml/xml_spec.cr#L228
+https://github.com/crystal-lang/crystal/issues/6770
+https://github.com/raysan5/raylib/issues/647
+https://github.com/torvalds/linux/search?q=master&unscoped_q=master
+https://github.com/torvalds/linux/search?q=slave&unscoped_q=slave
+https://github.com/raysan5/raylib/issues/648
+https://github.com/crystal-lang/crystal/issues/6772
+https://github.com/crystal-lang/crystal/pull/6773
+https://github.com/pallets/flask/issues/2919
+https://github.com/pallets/flask/issues/2920
+https://github.com/crystal-lang/crystal/issues/6774
+https://github.com/crystal-lang/crystal/issues/6775
+https://github.com/laurent22/joplin/issues
+https://github.com/Microsoft/vscode/search?q=whitelist&unscoped_q=whitelist
+https://github.com/raysan5/raylib/search?q=1488&unscoped_q=1488
+https://github.com/Microsoft/vscode/issues/59166
+https://github.com/tensorflow/tensorflow/issues/22468
+https://github.com/raysan5/raylib/issues/649
+https://github.com/crystal-lang/crystal/blob/b6ef064852810d7b011fd05661702edab3904662/man/crystal.1#L136 im opening an issue btw
+https://github.com/crystal-lang/crystal/issues/6776
+https://github.com/unpkg/unpkg.com/pull/81
+https://github.com/reduxjs/redux/pull/2335
+https://github.com/rtfd/readthedocs.org/pull/3752
+https://github.com/krzysztofzablocki/Sourcery/issues/2
+https://github.com/google/xi-editor/pull/126
+https://github.com/elastic/elasticsearch/blob/2fa09f062e5fe4165b457fb2b42ff4b65acdb8c7/plugins/mapper-annotated-text/src/test/java/org/elasticsearch/search/highlight/AnnotatedTextHighlighterTests.java#L136
+https://github.com/elastic/elasticsearch/issues/33969
+https://github.com/crystal-lang/crystal/issues/6777",US,NA,FALSE,NA
+186678413,162977993,186678559,0,0,1537710619,9/23/18(Sun)9:50,Anonymous,NA,NA,"PAST ISSUES (Maybe a little too SJW-y lol)
+
+https://github.com/crystal-lang/crystal/issues/6765
+https://github.com/nim-lang/Nim/issues/9030
+https://github.com/torvalds/uemacs/issues/16
+https://github.com/crystal-lang/crystal/issues/6767
+https://github.com/crystal-lang/crystal/issues/6769
+https://github.com/crystal-lang/crystal/blob/0004179c9576c89d14e617423828af6f31e6d7a1/spec/std/xml/xml_spec.cr#L228
+https://github.com/crystal-lang/crystal/issues/6770
+https://github.com/raysan5/raylib/issues/647
+https://github.com/torvalds/linux/search?q=master&unscoped_q=master
+https://github.com/torvalds/linux/search?q=slave&unscoped_q=slave
+https://github.com/raysan5/raylib/issues/648
+https://github.com/crystal-lang/crystal/issues/6772
+https://github.com/crystal-lang/crystal/pull/6773
+https://github.com/pallets/flask/issues/2919
+https://github.com/pallets/flask/issues/2920
+https://github.com/crystal-lang/crystal/issues/6774
+https://github.com/crystal-lang/crystal/issues/6775
+https://github.com/laurent22/joplin/issues
+https://github.com/Microsoft/vscode/search?q=whitelist&unscoped_q=whitelist
+https://github.com/raysan5/raylib/search?q=1488&unscoped_q=1488
+https://github.com/Microsoft/vscode/issues/59166
+https://github.com/tensorflow/tensorflow/issues/22468
+https://github.com/raysan5/raylib/issues/649
+https://github.com/crystal-lang/crystal/blob/b6ef064852810d7b011fd05661702edab3904662/man/crystal.1#L136 im opening an issue btw
+https://github.com/crystal-lang/crystal/issues/6776
+https://github.com/unpkg/unpkg.com/pull/81
+https://github.com/reduxjs/redux/pull/2335
+https://github.com/rtfd/readthedocs.org/pull/3752
+https://github.com/krzysztofzablocki/Sourcery/issues/2
+https://github.com/google/xi-editor/pull/126
+https://github.com/elastic/elasticsearch/issues/33969
+https://github.com/crystal-lang/crystal/issues/6777",HR,NA,FALSE,NA
+189928817,166231887,189934348,0,0,1539900218,10/18/18(Thu)18:03,Anonymous,NA,"189933723
+","anways thanks, I was going to fool around with elasticsearch and tensorflow anyways, might as well take this db to test shit",DE,NA,FALSE,NA
+202817299,179080904,202818537,0,0,1549892402,2/11/19(Mon)8:40,Anonymous,NA,"202817518
+","they sure have that info anyways.
+twitter is based on elasticsearch so it's easy for them anyways.
+dunno if one could formerly look up the people who liked a tweet, but one can look it up on their website, on the api side I can't find how to look up likes of people or who liked a tweet, one can get the rough number of likes a tweet has though
+with favourited on can see wether you urself liked a tweet and favourite_count gets you the number",DE,NA,FALSE,NA
+203737882,180002144,203740566,0,0,1550615550,2/19/19(Tue)17:32,RFC-1488,NA,"203740028
+","
+It was posted in the OP.
+
+I'll just come out and say it since this thread is dead. I'm proposing a redesign which leverages modern web framework standards. A thick client with Vue/Vuex data binding attached to dockerized C#/Entity Framework API. DDoS resilient CDN. Elasticsearch cluster. Data lake with analytics tables which are regularly processed by burstable compute-optimized worker instances. These analytics inform the userbase of successful and attempted inorganic user activity. 
+
+Help me build it?",US,NA,FALSE,NA
+213066695,189340152,213088060,0,0,1557857268,5/14/19(Tue)14:07,Anonymous,NA,NA,"I don't think there is any neural network behind that. It just dumps text where it finds the closest match, you could do that with Elasticsearch.
+>pic related, it just dumps chat logs",FI,NA,FALSE,https://i.4pcdn.org/pol/1557857268579.png
+215421294,191682246,215431965,0,0,1559780419,6/5/19(Wed)20:20,Anonymous,NA,"215425566
+",">hire some of the smartest scientists and engineers in the world to create a search engine
+elasticsearch is open source anon
+
+are you 12?",GB,NA,FALSE,NA
+215526572,191790644,215540406,0,0,1559866436,6/6/19(Thu)20:13,Anonymous,NA,"215540150
+","
+10 billion hacked records indexed in elasticsearch. I'll see if I can pull his SSN out of some of the dumps.",US,NA,FALSE,NA
+233647730,209888876,233651967,0,0,1574165620,11/19/19(Tue)7:13,Anonymous,NA,NA,"Tay AI is the ultimate tool for visualizing, understanding, and manipulating your data and works well with many databases, including:
+
+• PostgreSQL
+
+• MySQL
+
+• MongoDB
+
+• RethinkDB
+
+• Elasticsearch
+
+• Redshift
+
+• Hive
+
+• HBase
+
+• Spark
+
+• Flink
+
+• Kafka
+
+• Spark Streaming
+
+• HiveDB
+
+• Elasticsearch Query Service
+
+• MapD
+
+• Kafka Streams
+
+• HBase Explorer
+
+• MongoDB Graph
+
+• Riak
+
+• HBase File Store
+
+• RabbitMQ
+
+• Cassandra
+
+• Riak Distributed Database
+
+• Riak API
+
+• Elasticsearch Data Store
+
+• DynamoDB
+
+• Elasticsearch Cluster
+
+• Elasticsearch Key/Value Store
+
+• Lucene Index
+
+• Logstash
+
+•",NA,NA,FALSE,NA
+256189943,232411811,256195981,0,0,1588622366,5/4/20(Mon)15:59,Anonymous,NA,"256193982
+","Elasticsearch would be much better, easy setup with docker.",US,NA,FALSE,NA
+273026420,249248103,273048361,0,0,1597722523,8/17/20(Mon)23:48,Anonymous,NA,"273031958
+","independent/dependent isn't bad but I still think primary/replica is better. if the master dies a slave get promoted, which is why replica encapsulates that a bit better imo. it seems weirder for a ""dependent"" to become ""independent""
+
+idk it's all dumb
+
+at work we can't even use master as the main branch anymore
+
+
+leader/follower isn't bad, but the leftists are going to take issue with it anyway
+
+I like primary/replica: it's the same terminology elasticsearch uses, and I think it is fairly accurate. it's tough to encapsulate the notion that writes go to the master, the slaves receive the state of the world from the masters and can double as ""read replicas"" (can be read from), etc
+
+anyway it's all a moot point because no matter what term gets settled on, they're going to come out in 2 years and be like ""actually prrimary/replica implies a power dynamic, there's nothing wrong with being the read replica, let's call it ""the folk that receives da writes and da folk dat read da writes hurrr durrr""
+
+
+
+master/slave drive? are you speaking from a RAID perspective? the master/slave is referring to database replication topology. not ""drives"" (I imagine you're talking about RAID and raid uses similar terminology or something?)",US,NA,FALSE,NA
+276101993,252330542,276132661,0,0,1599342625,9/5/20(Sat)17:50,Anonymous,NA,"276131475
+","If you're a small company, do not become reliant on large contracts from big companies. Don't sell to them, don't buy from them, refuse to work with them. If you rely on them in any way, expect to get fucked. Look at Amazon and what they did to Elasticsearch (backed by Sequoia fucking Capital). Work local. Buy local. Hire local. Buy guns. Make guns. Stand your ground. That's all I'm saying.
+>A small company will obey
+So don't put yourself in the position where you have to capitulate. Don't sell out. Stand your ground. Learn to understand the basics and band together with people like yourself.
+https://www.youtube.com/channel/UCsHUpI4UfxcZtAtLXxIwsgQ
+At the end of the day, the money doesn't matter if you own your assets or are at least in reasonable control of your cash flow and interest rates that you choose to take on. Work with local banks that you know personally instead of large banks. I don't know what else to say.
+(Materials,Process,IP,equiptment,resources,rights) > (Money and profits)",US,NA,FALSE,NA
+278042722,254245942,278049713,0,0,1600440516,9/18/20(Fri)10:48,Anonymous,NA,NA,"Or you could just set up a local elasticsearch, extract raw text from .srt, learn basic JSON queries, and barely any coding needed, and won't take 3 days to run through all those files with 600 keywords.",HU,NA,FALSE,NA
+288205121,264260065,288219932,0,0,1604688490,11/6/20(Fri)13:48,Anonymous,NA,NA,"OP use elasticsearch and kibana, it'll be better",GB,NA,FALSE,NA
+288270015,264315426,288275148,0,0,1604699281,11/6/20(Fri)16:48,Anonymous,NA,NA,it'd be easier to write something to pipe data into Elasticsearch+Kibana so you can analyse it however the fuck you want,GB,NA,FALSE,NA
+299244364,275277670,299246937,0,0,1609328669,12/30/20(Wed)6:44,Anonymous,NA,"299246441
+","I was a web/graphic designer then I moved to film industry as a VFX artist and post-production compositor, then I moved to front-end development and Python/Django back-end, then again to film industry as a VFX programmer for automation and R'n'D, then to finance, then to development of large projects with a wide tech stack including ElasticSearch, Jenkins, video streaming, integration with social networks and state services, voice assistants, mobile apps and so on.",RU,NA,FALSE,NA
+312582895,288758671,312589989,0,0,1616069126,3/18/21(Thu)8:05,Anonymous,NA,"312588969
+","brett.blomme@gmail.com is contained in 
+Straffic: In February 2020, Israeli marketing company Straffic exposed a database with 140GB of personal data. The publicly accessible Elasticsearch database contained over 300M rows with 49M unique email addresses. Exposed data also included names, phone numbers, physical addresses and genders. In their breach disclosure message, Straffic stated that ""it is impossible to create a totally immune system, and these things can occur"".
+
+Compromised data: Email addresses, Genders, Names, Phone numbers, Physical addresses",DE,NA,FALSE,NA
+332820709,308967207,332822793,0,0,1628114203,8/4/21(Wed)17:56,Anonymous,NA,"332822362
+","ignore it, we have a skidbin and a archive now
+
+Also offering Searches, i plugged them into elasticsearch",US,NA,FALSE,https://i.4pcdn.org/pol/1628114203663.png
+332833172,308983444,332839043,0,0,1628122955,8/4/21(Wed)20:22,Anonymous,NA,"332837553
+","i forgot link for paste that works
+pastebin.com/YtAb3rKp
+Kibana + elasticsearch
+I took the json and stuck it into elasticsearch
+Not much but there is chauvin+Kenosha stuff
+antifa seems to have been more quite on jan 6",US,NA,FALSE,https://i.4pcdn.org/pol/1628041835783.png
+334865085,311008467,334865085,0,1,1629254909,8/17/21(Tue)22:48,Anonymous,Glowies Made Their Terror Watchlist Public,NA,">A secret watchlist of suspected terrorists maintained by the FBI was exposed online after a configuration error and then not fixed for several weeks after being reported, according toComparitech.
+
+>Head of security research at the firm, Bob Diachenko, said he discovered the Terrorist Screening Center (TSC) list on July 19, when the exposed Elasticsearch server was indexed by search engines Censys and ZoomEye. 
+
+>The list was left online without a password or any other authentication to secure it. It contained 1.9 million records, including full name, TSC watchlist ID, citizenship, gender, date of birth, passport number and more. 
+
+>The TSC is a classified list of suspected terrorists, including a smaller “no-fly” list. The information is shared with the Departments of State and Defense and customs officers, TSA staff and international partners. 
+
+>Although he didn’t check the entire database, Diachenko suggested that it may have contained the whole TSC list. 
+
+>“The terrorist watchlist is made up of people who are suspected of terrorism but who have not necessarily been charged with any crime. In the wrong hands, this list could be used to oppress, harass, or persecute people on the list and their families,”he argued.
+
+>[cont.]",US,361,FALSE,https://i.4pcdn.org/pol/1629254909591.png
+334865085,311010444,334867036,0,0,1629255821,8/17/21(Tue)23:03,Anonymous,NA,"334866690
+","It's ElasticSearch, which is like NoSQL. It means there's probably a lot of unstructured documents (dossier like material) associated with each record. Meaning it's not just the names, it's probably also activity associated with the individual, and possibly why they were put on there in the first place.",US,NA,FALSE,NA
+334865085,311010741,334867364,0,0,1629255987,8/17/21(Tue)23:06,Anonymous,NA,NA,"Bump. Glowie boomers itt acting like 2million entries is a large file it has to be out there somewhere
+> said he discovered the Terrorist Screening Center (TSC) list on July 19, when the exposed Elasticsearch server was indexed by search engines Censys and ZoomEye
+So with the date 
+>Bahrain ip address
+This information narrows looking for an archive down considerably",US,NA,FALSE,NA
+334865085,311016769,334873402,0,0,1629259011,8/17/21(Tue)23:56,Anonymous,NA,"334873046
+","
+I’ll look tomorrow; if the elasticsearch site really was indexed, there’s a chance the entry is still up there. The government is fucking slow and retarded. But if it’s classified I’m not opening it; that is a crime.",US,NA,FALSE,NA
+334877589,311020968,334877589,0,1,1629261148,8/18/21(Wed)0:32,Anonymous,Glowies Made Their Terror Watchlist Public - Faggot /pol/tards Can’t Find it Edition,NA,">A secret watchlist of suspected terrorists maintained by the FBI was exposed online after a configuration error and then not fixed for several weeks after being reported, according toComparitech.
+
+>Head of security research at the firm, Bob Diachenko, said he discovered the Terrorist Screening Center (TSC) list on July 19, when the exposed Elasticsearch server was indexed by search engines Censys and ZoomEye. 
+
+>The list was left online without a password or any other authentication to secure it. It contained 1.9 million records, including full name, TSC watchlist ID, citizenship, gender, date of birth, passport number and more. 
+
+>The TSC is a classified list of suspected terrorists, including a smaller “no-fly” list. The information is shared with the Departments of State and Defense and customs officers, TSA staff and international partners. 
+
+>Although he didn’t check the entire database, Diachenko suggested that it may have contained the whole TSC list. 
+
+>“The terrorist watchlist is made up of people who are suspected of terrorism but who have not necessarily been charged with any crime. In the wrong hands, this list could be used to oppress, harass, or persecute people on the list and their families,”he argued.",US,15,FALSE,https://i.4pcdn.org/pol/1629261148657.jpg
+334879294,311022698,334879294,0,1,1629262094,8/18/21(Wed)0:48,Anonymous,Glowies Made Their Terror Watchlist Public,NA,">A secret watchlist of suspected terrorists maintained by the FBI was exposed online after a configuration error and then not fixed for several weeks after being reported, according toComparitech.
+
+>Head of security research at the firm, Bob Diachenko, said he discovered the Terrorist Screening Center (TSC) list on July 19, when the exposed Elasticsearch server was indexed by search engines Censys and ZoomEye. 
+
+>The list was left online without a password or any other authentication to secure it. It contained 1.9 million records, including full name, TSC watchlist ID, citizenship, gender, date of birth, passport number and more. 
+
+>The TSC is a classified list of suspected terrorists, including a smaller “no-fly” list. The information is shared with the Departments of State and Defense and customs officers, TSA staff and international partners. 
+
+>Although he didn’t check the entire database, Diachenko suggested that it may have contained the whole TSC list. 
+
+>“The terrorist watchlist is made up of people who are suspected of terrorism but who have not necessarily been charged with any crime. In the wrong hands, this list could be used to oppress, harass, or persecute people on the list and their families,”he argued.
+
+>[cont.]",US,371,FALSE,https://i.4pcdn.org/pol/1629262094827.jpg
+334930725,311085320,334941951,0,0,1629302109,8/18/21(Wed)11:55,Anonymous,NA,"334941050
+","Seems this guy was trying to find the database, but these seem to be unrelated results. ZoomEye apparently indexed the database in question on July 19 2021.
+
+We might be able to find another copy if someone knows how to use this thing. The database was an ElasticSearch Cluster. Anyone know how to filter for that?",US,NA,FALSE,NA
+334930725,311088126,334944772,0,0,1629303495,8/18/21(Wed)12:18,Anonymous,NA,"334941951
+","I don't, but I know elasticsearch is designed for quick lookups of data so whatever they're doing they are running many algorithms or loading/reading the data quickly (quicker than a normal DB).
+
+You need to have ""shards"" of information that get stored in stages. For example store these for 2 weeks in fast retreival time and then up until 2 months it will be even slower etc.",US,NA,FALSE,NA
+335118094,311262129,335118813,0,0,1629393730,8/19/21(Thu)13:22,Anonymous,NA,"335118261
+","Probably this. It was taken down, unfortunately. Censys is pretty intuitive, so it would've taken maybe half an hour to check through every elasticsearch host in Bahrain for the the list. Shame this fucking piece of shit reported it to the DHS.",US,NA,FALSE,NA
+346870068,323005961,346870068,0,1,1636532862,11/10/21(Wed)3:27,Anonymous,NA,NA,"Hi boss, uh it's me your pajeet codemonkey, if you truly lurk on 4chan (like you mentioned to me today) please shift tomorrow's demo meeting to some other day, I've yet to properly test the elasticsearch implementation",CA,8,FALSE,https://i.4pcdn.org/pol/1636532862019.jpg
+348442541,324580024,348445539,0,0,1637355103,11/19/21(Fri)15:51,Anonymous,NA,"348443659
+","that is elasticsearch, the interface is kibana and can make cool infographs. 
+
+The pie graph shows the % of messages sent in each pantifa cell. 
+The bot is in over 140+ such cells.",US,NA,FALSE,NA
+355722526,331869796,355740367,0,0,1641770796,1/9/22(Sun)18:26,Anonymous,NA,"355733486
+","I switched to marketing/analytics after development. I would go with something like Django/Go/Node. A working MVP with uploads, account functionality, and plugging all that into something like Elasticsearch is a nice easy way to get started. Can probably even abstract that away with some of those tools that plug into your data sources and give you nice little tools and filters.
+
+To get people on the site is pretty easy. If I was starting an amateur porn site, I would simply violate all copyright laws and watch as western governments don't give a single fuck about protecting that IP. I would literally ignore and piss on their cease and desists and call their lawyers niggers (that's if they could find out who I am). What are they going to do? Sue me for stealing their hardcore pornography.
+
+When we tell the jury the site is low-key full of child porn, they WILL NOT SIDE WITH THEM.
+
+Back to getting people on the site, the usual methods: paid ads (#1 driver, but costly), astroturfing (cheaper, but LTV of customer is lower because they're literal retards who fell for shill spam), and finally exclusive deals with content creators (preferably amateur ones).
+
+You could even throw this all on a blockchain and distance yourself from it that way you're never doxxed (the NSA will know who you are, but they get the same treatment as the lawyers: call them niggers and tell them to fuck off). 
+
+Also, at a certain point, I would use all the profit and resources to start training AI deep fake models. You'd be solving human trafficking concerns and being able to produce products (content) cheaper and faster than your employees. You could also target certain traits based on user engagement and generate videos that correlate with that.
+
+If you start making it big, watch out for the Hungarians and Israelis. When they see you on their turf, they WILL try to harm you.
+
+I know this was a lot, but as you can tell, I have a big fucking ax to grind.",US,NA,FALSE,NA
+366740925,342896078,366773384,0,0,1647102796,3/12/22(Sat)11:33,Anonymous,NA,"366772277
+","THERE ARE ONLY 2 SEARCH ENGINES
+>Google
+>Yandex
+>Some chinese website
+
+EVERY SINGLE other search engine just uses api's from one of those 3. 
+>Duckduckgo
+google
+>Startpage
+google
+>Yahoo
+bing(google)
+>Searx
+Google/Bing/Yandex multi
+
+Yacy is the only ""alternative"" search but it's clearly shit. 
+Yacy = modded Apache Solr
+
+You can run apache solr yourself or use elasticsearch. that's the only real answer, self hosted search",US,NA,FALSE,NA
+386143316,362274288,386162485,0,0,1657483040,7/10/22(Sun)15:57,Anonymous,NA,"386146842
+","chinadan anyone?
+https://www.bleepingcomputer.com/news/security/hacker-claims-to-have-stolen-data-on-1-billion-chinese-citizens/
+On Sunday, Binance CEO Zhao Changpeng confirmed that his company's threat intelligence experts spotted ChinaDan's claims and said that the leak was likely due to an ElasticSearch database that a Chinese government agency accidentally exposed online.
+
+""Our threat intelligence detected 1 billion resident records for sell in the dark web, including name, address, national id, mobile, police and medical records from one asian country. Likely due to a bug in an Elastic Search deployment by a gov agency,"" Zhao said.
+
+""This has impact on hacker detection/prevention measures, mobile numbers used for account takeovers, etc.""
+
+Zhao later added that ""apparently, this exploit happened because the gov developer wrote a tech blog on CSDN and accidentally included the credentials.""
+
+Wall Street Journal reporter Karen Hao reached out to dozens of people who had their data allegedly stolen in the breach and said that some of them confirmed all the info available in the leaked sample.
+
+""At this point, it's impossible to confirm the scale of the data leak, but five of the people who picked up verified all of the case details listed with their name — information that would would be difficult to obtain from any source other than the police,"" Hao said.
+
+""The other four confirmed basic information like their names before hanging up.""
+
+If ChinaDan's claims are proven to be accurate, this would be the most significant data breach ever impacting China and one of the largest in history.
+and the whole effin board is harking up the biden tree.",CH,NA,FALSE,NA
+392201737,368311401,392203237,0,0,1661220573,8/22/22(Mon)22:09,Anonymous,NA,"392201974
+",Elasticsearch is programming you imbecile https://en.wikipedia.org/wiki/Elasticsearch,AU,NA,FALSE,NA
+392201737,368312029,392203860,0,0,1661220954,8/22/22(Mon)22:15,Anonymous,NA,"392203237
+",">Elasticsearch is programming
+lol no
+>t. assembly c++ programmer",US,NA,FALSE,NA
+392201737,368312030,392203871,0,0,1661220959,8/22/22(Mon)22:15,Anonymous,NA,"392203237
+",">Elasticsearch is programming
+no, ranjeet, it's not",US,NA,FALSE,NA
+392201737,368313770,392205613,0,0,1661222011,8/22/22(Mon)22:33,Anonymous,NA,"392205550
+",You realize you have to actually implement Elasticsearch crud calls in whatever the application is that you're integrating it into?,AU,NA,FALSE,NA
+392201737,368315804,392207652,0,0,1661223308,8/22/22(Mon)22:55,Anonymous,NA,"392207385
+","Have you ever actually integrated Elasticsearch before? I have. It's definitely not a full-time job, but it's not trivial to do it right.",AU,NA,FALSE,NA
+392201737,368316103,392207917,0,0,1661223494,8/22/22(Mon)22:58,Anonymous,NA,"392201737
+",">elastic search developer
+>developer
+the only elasticsearch developer work at elasticsearch and they are JAVA developer
+so unless you work at elasticsearch this makes no sense to begin with
+should you in your infinite wisdom need an elasticsearch devops then you should search of an elasticsearch devops
+plenty of them around",DE,NA,FALSE,NA
+392201737,368317427,392209243,0,0,1661224367,8/22/22(Mon)23:12,Anonymous,NA,NA,"i don't even understand why people still use Elasticsearch considering there are far superior less resource heavy alternatives around
+7 years ago when ELK was hot shit and JAVA the go-to language okay but today it makes zero sense unless you are dealing with millions of queries which most companies never will",DE,NA,FALSE,NA
+392201737,368318007,392209839,0,0,1661224795,8/22/22(Mon)23:19,Anonymous,NA,"392203237
+","elasticsearch isn't programming for the same reason any other markup language isn't programming
+its just markup
+if you tell me you need an elasticsearch developer i will automatically assume you are looking for a Java developer",DE,NA,FALSE,NA
+392201737,368318462,392210305,0,0,1661225137,8/22/22(Mon)23:25,Anonymous,NA,"392210243
+",I was more asking for your recommendation but ok https://techgenix.com/elasticsearch-alternatives/,AU,NA,FALSE,NA
+392201737,368318747,392210582,0,0,1661225339,8/22/22(Mon)23:28,Anonymous,NA,"392201737
+","because white people dont apply for ""Elasticsearch"" positions.",US,NA,FALSE,NA
+392201737,368318983,392210820,0,0,1661225492,8/22/22(Mon)23:31,Anonymous,NA,NA,">Whites made up 78 percent of all employed people, but accounted for 96 percent of farmers, ranchers, and other agricultural managers; 92 percent of construction managers; and 90 percent of chief executives.
+White people apply for better tech positions than ""elasticsearch"" whatever the fuck that is.",US,NA,FALSE,https://i.4pcdn.org/pol/1660663896511887.png
+392201737,368319207,392211054,0,0,1661225673,8/22/22(Mon)23:34,Anonymous,NA,"392210266
+",">monkeys that can code
+they can code Hello World in a meme language like Rust which will never be used in an enterprise environment
+according to some think tank study less than 0.5% of the world population can code
+including all pajets
+if you remove all the CSS, Elasticsearch ""developer"" and coding Katie's from that leaving only actual developer like C/++/#, (C)Python, Go, etc. you are probably looking at less than 0.01%
+its why so much actual good software sits on Github unmaintained collecting dust and so many great ideas will never be realized
+because all the actual coders are busy fixing outsourced pajeet spaghetti code
+
+see you know how google works
+there are plenty alternatives, pick any 1
+its not like this is an industry secrete or anything
+spin up a bunch of VMs, benchmark them against each other and then pick whatever best fits your needs",DE,NA,FALSE,NA
+392201737,368320384,392212196,0,0,1661226491,8/22/22(Mon)23:48,Anonymous,NA,"392201737
+",">elasticsearch developer
+Do people seriously specialize their entire programming careers into one single api now? How can you even call yourself a programmer at that point?",US,NA,FALSE,NA
+392201737,368326799,392218637,0,0,1661231488,8/23/22(Tue)1:11,Anonymous,NA,"392203237
+","Elasticsearch is a NoSQL database, gupta.",SK,NA,FALSE,NA
+392201737,368333534,392225353,0,0,1661237021,8/23/22(Tue)2:43,Anonymous,NA,"392201737
+",">Elasticsearch
+>Java
+heh",AR,NA,FALSE,NA
+392201737,368335330,392227155,0,0,1661238677,8/23/22(Tue)3:11,Anonymous,NA,"392226946
+","Not even Indian you absolute retard, I'm fluorescently white. Elasticsearch has bindings in every fucking language, it's the Toyota of open source software, everyone at a big enough company has either used it or implemented it in their project",AU,NA,FALSE,NA
+392201737,368337302,392229116,0,0,1661240468,8/23/22(Tue)3:41,Anonymous,NA,"392201737
+","I am an elasticsearch developer, how much do you guys pay?",DE,NA,FALSE,NA
+392201737,368337792,392229635,0,0,1661240904,8/23/22(Tue)3:48,Anonymous,NA,"392203237
+","Are you retarded? Elasticsearch isn’t even a dev framework. It’s a technology.
+
+What do you need? Someone to set up the infra? Then you’re looking for a dev ops… someone to write kibana queries? Like what???",CA,NA,FALSE,NA
+392201737,368338594,392230431,0,0,1661241599,8/23/22(Tue)3:59,Anonymous,NA,"392205613
+",is elasticsearch turing complete? neck yourself,US,NA,FALSE,NA
+392201737,368342997,392234812,0,0,1661245500,8/23/22(Tue)5:05,Anonymous,NA,"392216030
+",">Elasticsearch is a search engine based on the Lucene library. Initial release 8 February 2010; 12 years ago
+Maybe they have experience with programming before this recent zoomer buzzword crap.",GB,NA,FALSE,NA
+402654206,378775066,402671763,0,0,1667444334,11/2/22(Wed)22:58,Anonymous,NA,NA,"What you deleted, I have mor. #NetwarSysyems 
+
+“I have developed a system for monitoring social media traffic on Twitter, Telegram, etc, using Elasticsearch as the foundation. I made the code public a couple weeks ago: Installing Netwar System 2.”
+
+https://forum.search-guard.com/t/integrating-search-guard-w-my-project-expanding-demo/1459
+
+https://firestormonfash.noblogs.org/files/2020/08/SMIU_SocietyBurning.pdf
+
+https://twitter.com/pepesgrandma",FI,NA,FALSE,https://i.4pcdn.org/pol/1667443870450612.jpg
+402653112,378775072,402671862,0,0,1667444390,11/2/22(Wed)22:59,Anonymous,NA,NA,"What you deleted, I have mor. #NetwarSysyems
+
+“I have developed a system for monitoring social media traffic on Twitter, Telegram, etc, using Elasticsearch as the foundation. I made the code public a couple weeks ago: Installing Netwar System 2.”
+
+https://forum.search-guard.com/t/integrating-search-guard-w-my-project-expanding-demo/1459
+
+https://firestormonfash.noblogs.org/files/2020/08/SMIU_SocietyBurning.pdf
+
+https://twitter.com/pepesgrandma",FI,NA,FALSE,NA
+405838723,381955477,405853821,0,0,1669367411,11/25/22(Fri)4:10,Anonymous,NA,"405852764
+","What's it for? I'm not a coder, but I've seem the nerds at work seething about having to use elasticsearch instead of just sql because ""it's just sql in the wrong order"".",GB,NA,FALSE,NA
+411124884,387271334,411172044,0,0,1673046901,1/6/23(Fri)18:15,Anonymous,NA,"411162682
+",">Anything I can do against this so I can have access to information
+I have outlined a project that can be made very easily and cheaply by 1 software engineer who knows how to write browser plugins. 
+At the very least, since nobody really cares at Google, someone can create a plugin / filter for Google search results, that will remove some common garbage from G search results. That can be customizable for each user.
+
+This can be easily converted for other search engines, such as DuckDuckGo and Bing. Not sure about Yandex, but last time I checked russians are pretty good at allowing various filters. 
+
+See these posts: 
+The next step would be getting a computer with a bunch of storage or a server , in a hosting or even at home, and an Open source software that can run your own search engine. Possibly look at elastic search (not open source , as a concept), Majestic , etc. Storage and hosting is so cheap that you really don't need any finances to start. 
+
+https://en.wikipedia.org/wiki/Elasticsearch 
+https://mj12bot.com/",US,NA,FALSE,NA
+411374106,387487505,411388256,0,0,1673195428,1/8/23(Sun)11:30,Anonymous,NA,NA,"I've been watching search engines written by 1 guy, really, work out ok. It's not a very hard road anymore. Storage is cheap, 1 Terabyte of storage is $50. Hosting is cheap. 
+
+I've been watching ElasticSearch and Majestic 12 , basically written by 1 software engineer. 
+Several search engines turned into marketing tools - SEMrush was originally written by less than 10 russian programmers. Ahrefs - now a link research tool, I think was also originally written by a tiny group. 
+You can be 1 guy or a small group and succeed in making a decent Search Engine . You can do it.",US,NA,FALSE,NA
+421547818,397662800,421568332,0,0,1680139668,3/29/23(Wed)21:27,Anonymous,NA,"421559242
+",">Imagine such a transformer using spoken input of meals one would like to eat,
+>converting it into formatted API input to Walmart's online shop.
+
+Its an outright failure if the great new ""current thing"" is thought to be potentially used as an online shopping cart...
+Same functionality can be made with standard String technology like ElasticSearch with much less costs and without the need for a data science ""expert"", the problem is that companies do not invest in UI/UX and users become used to shit interfaces.
+
+This ""GPT thing"" is the same as the ""metaverse thing"", that was the same as the ""distribuited finance thing"", and the ""tech startup thing"", and the ""JS tech stack thing"", and the ""code generator from database schemes thing"", and the ""JAVA framework thing"", and the ""visual basic 6.0 thing"" and the ""COBOL macros thing"".
+
+In the end companies jump into these bandwagons under promises of new big markets and extreme profits, and it all ends in retards losing time and money and companies becoming unproductive due to a poor choice of technologies made due to the ""current thing"" bandwagon and tech influencers peddling big tech propagandad.
+
+In five years I will be doing workarounds for stupid and malfunctioning GPT applications that were made due to stupid decisions and not for being appropiate technologies.",AR,NA,FALSE,https://i.4pcdn.org/pol/1638180394528.jpg
+424740000,400841082,424748136,0,0,1682395217,4/25/23(Tue)0:00,Anonymous,NA,"424747668
+","kek it doesn't use any authentication headers, as long as you pass a payload to https://toxinfreesingles.com/elasticsearch/msearch it works. No clue how it's getting that payload, can't work it out. Do you know good sites for working out encryption? There are different versions of the search if you look at the response.
+>version 97929
+>version 101078
+>version 117927",AU,NA,FALSE,NA
+424740000,400842711,424749770,0,0,1682396514,4/25/23(Tue)0:21,Anonymous,NA,"424749228
+","It seems Wim is in there doing something, there was a different type of search just done that returned on his account, not sure why this search was also visible to me.
+>https://toxinfreesingles.com/elasticsearch/search
+Seems the generic for all users.
+>https://toxinfreesingles.com/elasticsearch/msearch
+Seems to be specific to the profile and finally
+>https://toxinfreesingles.com/elasticsearch/mget
+Seems specific to a person.
+Was combination but this one happened after I changed my password, it did a full refresh of the page and did a different search. Yeah I tried decoding it as base64 too.",AU,NA,FALSE,NA
+425560955,401659109,425566567,0,0,1683032232,5/2/23(Tue)8:57,The Ferengi of Romania,NA,"425566024
+",">I was approached by a HR lady from bosch in linkedin. I suspect jewery.
+Depending on which position you're being reached out to, it's probably complete fucking bullshit outsourcing which they're doing to try and cut costs by firing Goymons and moving their jobs to poorer EU cunt-trees. Bosch is a joke. If the job is anything but working in manufacturing, you can expect them to demand:
+1. That you know Docker, Kubernetes, Jenkins, Python and Linux shell scripting, Ansible, Elasticsearch, Terraform and other DevOps automation and are comfortable using Microsoft Azure.
+2. You accept being paid peanuts.
+3. And to be lorded over by completely technically illiterate wahmen team leaders.",RO,NA,FALSE,https://i.4pcdn.org/pol/1668204117162604.jpg
+430448184,406547081,430456442,0,0,1686626726,6/12/23(Mon)23:25,Anonymous,NA,"430448184
+","AUGGGGGHHHHHHHH!!!!!
+
+ChatGPT pulls it out its ass or just repeats what you say when it's not pretrained on some text. It's like you people are still living in 2022, not June 2023 when you can download guanaco-65b or falcon-instruct-40b. These fuckers run on your own hardware and are just as good as ChatGPT except you can train them yourself using peft and quantization. Hell, you can hook them up to an elasticsearch and have whatever ""data bank"" you want.
+
+A fucking renaissance has taken place in the FOSS community surrounding LLMs. You don't even need GPUs for inference and they still run fast enough.",US,NA,FALSE,NA
+436163449,412266153,436181767,0,0,1690643091,7/29/23(Sat)11:04,Anonymous,NA,"436166330
+",The SIEM industry is a scam. Elasticsearch is free and it beats everything other than splunk. I feel bad for companies with stuff like logrhythm and ESM. It's like they live in nightmare world.,US,NA,FALSE,NA
+442812116,418907803,442827710,0,0,1696033219,9/29/23(Fri)20:20,Anonymous,NA,"442816372
+","lmao post real flag pajeet.
+
+this is without a doubt the most dogshite site I've ever seen. 
+
+no redirect from http to https, mobile scaling is trash, og-images non existent, no aria labels, each site you've posted is the same free themeforest template with slightly different content.
+
+post your site on /g/wsg/ and ask for some feedback go on.
+
+>my site uses AI on the backend
+
+fucking every clown uses AI now, unless you're actually using K Nearest Neighbours, or elasticsearch, or CNNs etc, then just say you used ChatGPT to shite out this crap onto the world.
+
+anon was right. anyone with a brain could ship something better. 
+
+here's one I ""made"" in 30 seconds.
+
+https://novel-jet-seven.vercel.app/",AU,NA,FALSE,NA
+443232206,419344940,443265063,0,0,1696406966,10/4/23(Wed)4:09,Anonymous,NA,"443264584
+","Do you mind me asking what Starlink use to dashboard telemetry data?
+
+I'm working on a means of communicating network health in nice ways, by keeping it ultra simple eg a traffic light system or simply ON/OFF. Would you recommend ELK (Elasticsearch-Logstash-Kibana)? TIG (Telegraf-InfluxDB-Grafana)? Or have a go at writing my own? I'm dealing with data from a variety of sources: Splunk, Cisco routers, Starlink nodes etc.
+
+t. developer",GB,NA,FALSE,NA
+453588240,429672926,453603072,0,0,1704033997,12/31/23(Sun)9:46,Anonymous,NA,"453599671
+","Step by step is just looking at code/flow diagram and following script: input is that, it goes here, here and here, not here, hm, why did it do that here, aha, error is here, go fix that and make task to add to test suite.
+>architect
+1. Ok, we have data incoming in constant flow, some in parts, but we will collect it in one piece, so lets make it broker, need some persistence and ability to add more steps and retries, will use kafka, kafka is cool.
+2. Now, we need to store some user data, sql is good, postgres is good and free, here, dont forget balance and shit.
+3. Next step - we need aggregations and lots of text filtering, data looks like a mess, so nosql, text, aggs - it is elasticsearch time! Wait, legal called, its opensearch, bugger.
+4. Now, we have one dev, two junes, grab python and look some cool framework.
+5. ML models? Easy shit, seldon it.
+6. So data processing involve lots of steps, lets slap state machine on it.
+7. Async, bitch
+8. Kubernetes, iam, pdp, nginx
+
+Done. Gonna write some lines and figure out caches and aggregations storage, but it is done.
+
+Now where is logic here?",ES,NA,FALSE,NA
+457656749,433763282,457695870,0,0,1707181087,2/5/24(Mon)19:58,Anonymous,NA,"457656749
+","i added your thread to my archive OP, and there are probably other lurkers doing similar.
+for you, and all other anons, i'd advise to always provide as many links and as much writeup as you can.
+real anons have extremely low engagement these days, have faith and know your words will make it where they need to.
+many anons are making their backups searchable for themselves (elasticsearch, yacy, nextcloud, etc.) so compose your posts accordingly.
+the glowniggers have all been doing this for decades, time for anons to start reaching parity.
+i hate the antichrist and you can too.",US,NA,FALSE,https://i.4pcdn.org/pol/1707181087301110.png
+463665668,439751645,463687394,0,0,1712036010,4/2/24(Tue)1:33,Anonymous,NA,"463666957
+","
+>Maybe other anons can suggest
+
+I'd suggest using a tool to index your downloaded text. Sphinx or elasticsearch or such. After you've done it once or twice you'd have the scripts to fire it through.",CA,NA,FALSE,NA

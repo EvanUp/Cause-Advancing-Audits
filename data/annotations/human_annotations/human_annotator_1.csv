@@ -1,0 +1,52 @@
+idx,engine_comparison,engine_rankings,query
+560,Yes,"{""duckduckgo"":1, ""qwant"":1, ""starpage"":1}",No
+320,Yes,"{""dissenter"":1, ""searx"":2, ""duckduckgo"":2, ""startpage"":2}",No
+1176,Yes,"{""startpage"":1, ""brave search"":1, ""yandex"":1, ""google"":2}",No
+1097,Yes,"{""intelx"":1, ""gigablast"":1, ""yandex"":1, ""yahoo"":2, ""google"":3}",No
+1169,Yes,"{""Yandex"":1, ""brave search"":2, ""duckduckgo"":2}",No
+633,Yes,"{""swisscows"":1, ""qwant"":1, ""google"":2}",No
+48,Yes,"{""bing"":1, ""yandex"":1, ""google"":2}",No
+1151,Yes,"{""brave"":2, ""google"":2, ""bing"":2}",No
+23,Yes,"{""searx"":1, ""startpage"":2, ""yandex"":2, ""ixquick"":2, ""yahoo"":3, ""bing"":3, ""google"":4}",No
+355,Yes,"{""tor"":1, ""i2p"":1, ""freenet"":1, ""searx"":2, ""duckduckgo"":3, ""google"":4}",No
+164,Yes,"{""searx"":1, ""startpage"":1, ""brave"":2, ""duckduckgo"":3}",No
+621,Yes,"{""google"":1, ""bing"":1, ""duckduckgo"":1, ""qwant"":1}",No
+409,Yes,"{""duckduckgo"":1, ""yahoo"":1, ""bing"":3, ""google"":2}",['child porn']
+898,No,{},No
+600,Yes,"{""Yandex"":1, ""Qwant"":1, ""Google"":2}",No
+931,Yes,"{""yacy"":1, ""duckduckgo"":1, ""google"":2}",No
+996,Yes,"{""duckduckgo"":1, ""startpage"":1, ""google"":2}",No
+620,Yes,"{""google"":1, ""yandex"":1, ""bing"":1, ""duckduckgo"":1}","[""idiot""]"
+859,Yes,"{""startpage"":1, ""duckduckgo"":2, ""google"":2}",No
+477,Yes,"{""naver"":1, ""yandex"":1, ""baidu"":1, ""qwant"":1, “yahoo"":1}","[""white american family"", ""european art"", ""european history""]"
+480,No,{},No
+136,yes,"{""startpage"":1, ""searx"":1}",No
+391,yes,"{'qwant':1, 'duckduckgo':1, 'bing':2, 'google':3}",No
+251,yes,"{'searx':1, 'Google':2,'Bing':2}",No
+962,yes,"{'Startpage':1, 'Google':2}",No
+705,Yes,"{'brave':1, 'searx':1, 'duckduckgo':2, 'tor':2, 'qwant':2}",No
+367,Yes,"{'duckduckgo':1, 'startpage':1, 'searx':1}",No
+695,yes,"{'searx':1, 'qwant':1, 'duckduckgo':2}",No
+503,No,{},No
+1070,Yes,"{'swisscows':1, 'google':2}",No
+747,Yes,"{'qwant':1, 'yandex':1, 'bing':1, 'searx':1, 'duckduckgo':2}",No
+736,Yes,"{""startpage"":1, ""qwant"":1, ""yandex"":1, ""google"":2}",No
+378,Yes,"{'gibriu':1, 'searchencrypt':1, 'startpage':1, 'swisscows':1, 'gigablast':1, 'lycos':1, 'mojeek':1, 'webcrawler':1, 'metager':1, 'qwant':1, 'qmamu':1, 'you':1, 'oscobo':1, 'infinitysearch':1}",No
+78,Yes,"{'yandex':1, 'startpage':1, 'ixquick':1, 'google':2}",No
+324,Yes,"{'searx':1, 'yacy':1, 'duckduckgo':2, 'google':3}",No
+1241,No,{},No
+566,yes,"{'qwant':1, 'yandex':1, 'google':2}",No
+283,Yes,"{'duckduckgo':1, 'searx':1, 'google':2, 'bing':2}",No
+1235,Yes,"{'webcrawler':1, 'yahoo':2, 'google':3}",No
+129,yes,"{'searx':1, 'google':2, 'bing':2}",No
+984,No,{},No
+707,Yes,"{'startpage':1, 'brave':1, 'qwant':2, 'searx':3}",No
+333,Yes,"{'searx':1, 'duckduckgo':1, 'startpage':1, 'qwant':1}",No
+559,yes,"{'bing':1, 'duckduckgo':2, 'qwant':2, 'google':3}",No
+1020,yes,"{'startpage':1, 'yandex':2, 'google':3}",No
+217,yes,"{'qwant':1, 'startpage':1, 'searx':1}",['pol']
+917,Yes,"{'startpage':1, 'mojeek':2, 'qwant':2, 'swisscows':2, 'yandex':2, 'bing':2}",No
+401,Yes,"{'bing':1, 'duckduckgo':1, 'google':2}",No
+696,yes,"{'qwant':1, 'searx':1, 'startpage':1}",No
+1060,yes,"{'dogpile':1, 'yandex':2, 'duckduckgo':3, 'google':3}",No
+1141,Yes,"{'bing':1, 'yandex':1, 'brave':2}",No

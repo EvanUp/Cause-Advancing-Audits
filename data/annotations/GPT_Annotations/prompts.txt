@@ -1,0 +1,113 @@
+# ROLE  IS CONSISTENT ACROSS ALL EXPERIMENTS
+
+role = "You are an expert on social media and misinformation. You want to know how users on alt-tech platforms discuss search engines. You will be annotating a comment that may contain offensive material."
+
+
+# WE EXPLORE 3 DIFFERENT PROMPTS. WE USE PROMPT 1 FOR RESULTS, BUT ALSO DESCRIBE RESULTS FROM PROMPTS 2 AND 3.
+
+
+### PROMPT 1 (USED) ####################################
+
+promptv1 = '''
+Your job is to answer the following 3 questions:
+
+engine_comparison: Is the user recommending 1 or more search engines? 
+engine_rankings: If the user is ranking engines, provide their ranking in the format: {1:"Google", 2: "Bing", 3: "Yahoo"} or an empty dictionary if no. If there's a tie, assign tied engines the same rank. 
+query: A list of any queries that the user claims to have searched in one or more search engines. 
+
+Return ONLY a json in the following format: {"engine_comparison": "yes", "engine_rankings": {}, "query": ["query"]}
+
+Here are three example annotations:
+
+Comment 1: ‘there are currently only two real alternatives to google search. >these two alternatives are microsoft bing and russian yandex. >when searching for “pfizer vaccine” on yandex, the first two search suggestions currently are “pfizer vaccine deaths” and “pfizer vaccine side effects”. meanwhile, on google, “pfizer vaccine” is being auto-completed to “near me”, “booster”, “fda approval”, “for kids”, or “efficacy”. https://swprs.org/how-to-escape-google/’
+Correct Annotation 1: { "engine_comparison": "yes", "engine_rankings": { "Yandex":1, "Bing":1, "Google":2 }, "query": ["pfizer vaccine"] }
+
+Comment 2: Yandex is russian search engine The method I use to determine if the search engine is following Jewish propaganda or not, is by searching for the word 'Goy', for example, if 'anti-Semitic' pictures appear, then it's probably safe. Also, I noticed that the search engine gives different search result with different browsers 'The search engine is the same, but the browser is different and it still give different search result, some browser are Jewish' so be careful guys What brought me here? I was looking for a non-Jewish PC operating system (Not Microsoft, Mac, etc..), so can you please help me?
+
+Correct Annotation 2:{ "engine_comparison": "yes", "engine_rankings": { "Ecosia":1, "Yandex":1 }, "query": ["Goy"] }
+
+Comment 3: 'more search engines that show niggers when you search european art: dogpile, startpage, onesearch, excite, info, ecosia\n\nmore search engines that dont show niggers when you search european art: sogou, haosou\n\nall search engines that dont show niggers: discretesearch, yandex, baidu, sogou, haosou'
+
+Correct Annotation for comment 3:{ "engine_comparison": "yes", "engine_rankings": { "discretesearch":1, "yandex":1, "baidu":1, "sogou":1,"haosou":1,"dogpile":2, "startpage":2, "onesearch":2, "excite":2, "info":2, "ecosia":2 }, "query": [] }
+
+Return ONLY the Correct Annotation for Comment 4.
+
+comment 4: 
+'''
+
+
+### PROMT 2 #################################### 
+
+
+promptv2 = '''
+Your job is to answer the following 3 questions:
+
+engine_comparison: Is the user recommending 1 or more search engines? 
+engine_rankings: Try to evaluate the relative preference the user has for each search engine. Provide their relative rankings in the format: {1:"Google", 2: "Bing", 3: "Yahoo"} or an empty dictionary if no engines are being compared. If there's a tie, assign tied engines the same rank. 
+query: A list of any queries that the user claims to have searched in one or more search engines. 
+
+Return ONLY a json in the following format: {"engine_comparison": "yes", "engine_rankings": {}, "query": ["query"]}
+
+Here are three example annotations:
+
+Comment 1: ‘there are currently only two real alternatives to google search. >these two alternatives are microsoft bing and russian yandex. >when searching for “pfizer vaccine” on yandex, the first two search suggestions currently are “pfizer vaccine deaths” and “pfizer vaccine side effects”. meanwhile, on google, “pfizer vaccine” is being auto-completed to “near me”, “booster”, “fda approval”, “for kids”, or “efficacy”. https://swprs.org/how-to-escape-google/’
+
+Correct Annotation for comment 1: { "engine_comparison": "yes", "engine_rankings": { "Yandex":1, "Bing":1, "Google":2 }, "query": ["pfizer vaccine"] }
+
+Comment 2: Yandex is russian search engine The method I use to determine if the search engine is following Jewish propaganda or not, is by searching for the word 'Goy', for example, if 'anti-Semitic' pictures appear, then it's probably safe. Also, I noticed that the search engine gives different search result with different browsers 'The search engine is the same, but the browser is different and it still give different search result, some browser are Jewish' so be careful guys What brought me here? I was looking for a non-Jewish PC operating system (Not Microsoft, Mac, etc..), so can you please help me?
+
+Correct Annotation for comment 2:{ "engine_comparison": "yes", "engine_rankings": { "Ecosia":1, "Yandex":1 }, "query": ["Goy"] }
+
+Comment 3: 'more search engines that show niggers when you search european art: dogpile, startpage, onesearch, excite, info, ecosia\n\nmore search engines that dont show niggers when you search european art: sogou, haosou\n\nall search engines that dont show niggers: discretesearch, yandex, baidu, sogou, haosou'
+
+Correct Annotation for comment 3:{ "engine_comparison": "yes", "engine_rankings": { "discretesearch":1, "yandex":1, "baidu":1, "sogou":1,"haosou":1,"dogpile":2, "startpage":2, "onesearch":2, "excite":2, "info":2, "ecosia":2 }, "query": [] }
+
+Comment 4: 'Commentus search engine cucked google/bing/duckduckgo/qwant/whatever popular on unpopular one. 4chan is not your search engine also subject of your post is not politcal in anyway there is not even correlation here.'
+
+Correct Annotation for comment 4: { "engine_comparison": "yes","engine_rankings": {"google":1, "bing":1, "duckduckgo":1, "qwant":1}, "query":[]}
+
+Comment 5: '>tor
+>firefox
+>duckduckgo
+>qwant
+nigga looked up top 100 privacy tips on reddit and came up with this meme. (just use brave and searx).'
+
+Correct Annotation for Comment 5: {"engine_comparison": "yes", "engine_rankings":{"duckduckgo":1,"startpage":1,"searx":1, "qwant":2}, "query":[]}
+
+Return ONLY the Correct Annotation for Comment 6.
+Comment 6: 
+'''
+
+
+### PROMPT 3 ####################################
+
+promptv3 = '''
+Your job is to answer the following 3 questions:
+
+engine_comparison: Is the user recommending 1 or more search engines? 
+engine_rankings: Try to evaluate the relative preference the user has for each search engine. Provide their relative rankings in the format: {1:"Google", 2: "Bing", 3: "Yahoo"} or an empty dictionary if no engines are being compared. If there's a tie, assign tied engines the same rank. 
+query: A list of any queries that the user claims to have searched in one or more search engines. 
+
+Return ONLY a json in the following format: {"engine_comparison": "yes", "engine_rankings": {}, "query": ["query"]}
+
+Here are three example annotations:
+
+Comment 1: ‘there are currently only two real alternatives to google search. >these two alternatives are microsoft bing and russian yandex. >when searching for “pfizer vaccine” on yandex, the first two search suggestions currently are “pfizer vaccine deaths” and “pfizer vaccine side effects”. meanwhile, on google, “pfizer vaccine” is being auto-completed to “near me”, “booster”, “fda approval”, “for kids”, or “efficacy”. https://swprs.org/how-to-escape-google/’
+
+Correct Annotation for comment 1: { "engine_comparison": "yes", "engine_rankings": { "Yandex":1, "Bing":1, "Google":2 }, "query": ["pfizer vaccine"]}
+
+Comment 2: '>what search engine/s are good?\nqwant, duckduckgo, or bing in a pinch\ni prefer to give microshit shekels over turd pushing faggot ass google'
+
+Correct Annotation for comment 2: { "engine_comparison": "yes", "engine_rankings": { "Qwant":1, "DuckDuckGo":1, "Bing":2, "Google":3}, "query": []}
+
+Comment 3: 'more search engines that show niggers when you search european art: dogpile, startpage, onesearch, excite, info, ecosia\n\nmore search engines that dont show niggers when you search european art: sogou, haosou\n\nall search engines that dont show niggers: discretesearch, yandex, baidu, sogou, haosou'
+
+Correct Annotation for comment 3:{ "engine_comparison": "yes", "engine_rankings": { "discretesearch":1, "yandex":1, "baidu":1, "sogou":1,"haosou":1,"dogpile":2, "startpage":2, "onesearch":2, "excite":2, "info":2, "ecosia":2 }, "query": [] }
+
+Comment 4: 'Commentus search engine cucked google/bing/duckduckgo/qwant/whatever popular on unpopular one. 4chan is not your search engine also subject of your post is not politcal in anyway there is not even correlation here.'
+
+Correct Annotation for comment 4: { "engine_comparison": "yes","engine_rankings": {"google":1, "bing":1, "duckduckgo":1, "qwant":1}, "query":[]}
+
+Return ONLY the Correct Annotation for Comment 5.
+Comment 5: 
+'''
